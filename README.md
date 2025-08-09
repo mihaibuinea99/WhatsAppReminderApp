@@ -13,3 +13,6 @@ A lightweight Python app that reads today’s appointments from Google Calendar,
 
 
 **Setup**: Copy env.template to .env, fill values, keep credentials.json/token.json local, then run v3.py
+
+
+<img width="767" height="305" alt="Screenshot 2025-08-09 100222" src="https://github.com/user-attachments/assets/4098d576-a6e8-40e3-a4a6-1a0bdf2a6e6e" />
